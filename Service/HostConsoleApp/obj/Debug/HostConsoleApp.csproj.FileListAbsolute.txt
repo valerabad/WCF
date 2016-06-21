@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.exe.config
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.pdb
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\HostConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\HostConsoleApp.pdb
