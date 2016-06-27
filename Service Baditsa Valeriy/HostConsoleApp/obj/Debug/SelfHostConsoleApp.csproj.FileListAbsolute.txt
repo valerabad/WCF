@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.exe.config
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\HostConsoleApp.pdb
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\HostConsoleApp.pdb
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\HostConsoleApp\obj\Debug\SelfHostConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\obj\Debug\SelfHostConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\obj\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\obj\Debug\HostConsoleApp.pdb
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\bin\Debug\HostConsoleApp.exe.config
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\bin\Debug\HostConsoleApp.exe
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\bin\Debug\HostConsoleApp.pdb
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service - копия\HostConsoleApp\bin\Debug\Service.pdb

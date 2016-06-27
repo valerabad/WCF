@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\WCF\Service\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\User\Desktop\WCF\Service\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\User\Desktop\WCF\Service\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\User\Desktop\WCF\Service\WindowsService1\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\WindowsService1\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\WindowsService1\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\User\Desktop\WCF\Service\WindowsService1\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WCF\Service\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\User\Desktop\WCF\Service\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\obj\Debug\WindowsServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\obj\Debug\WindowsServiceHost.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service - копия\WindowsService1\bin\Debug\Service.pdb
