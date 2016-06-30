@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\WCF\Service\Service\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\Service\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\Service\obj\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\Service\obj\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\Service\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service - копия\Service\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service - копия\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\Service\obj\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service - копия\Service\obj\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\Service\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\Service\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\Service\obj\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\Service\obj\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache

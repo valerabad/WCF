@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\WCF\Service\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\User\Desktop\WCF\Service\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\User\Desktop\WCF\Service\WinFormApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service\WinFormApp\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service\WinFormApp\obj\Debug\WinFormApp.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\User\Desktop\WCF\Service - копия\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\bin\Debug\Service.dll
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\bin\Debug\Service.pdb
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\User\Desktop\WCF\Service Baditsa Valeriy\WinFormApp\obj\Debug\WinFormApp.pdb
